@@ -4,6 +4,13 @@
     "description": "A quick and easy file sharing tool built with privacy in mind in form of a Visual Studio Code Extension",
     "version": "1.0.0",
     "publisher": "Sudhay",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sudhay23/JetSet-VSCode-Extension"
+    },
+    "bugs": {
+        "url": "https://github.com/sudhay23/JetSet-VSCode-Extension/issues"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },

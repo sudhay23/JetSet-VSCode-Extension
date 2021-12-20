@@ -1,5 +1,17 @@
 # **JetSet** - for VSCode
 
+<a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=Sudhay.jetset-for-vscode">
+    <div align="left">
+        <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/Sudhay.jetset-for-vscode?style=social">
+        <br/>
+        <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/Sudhay.jetset-for-vscode?style=social">
+        <br/>
+        <img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/Sudhay.jetset-for-vscode?style=social">
+    </div>
+</a>
+
+---
+
 > Ever wanted to share files like `.env` quick and easy with highest possible privacy? JetSet helps you with just that...
 
 <center>JetSet for VSCode is a quick and easy file sharing tool built with privacy in mind in form of a Visual Studio Code Extension to quickly transfer files without leaving VSCode at all.
