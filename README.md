@@ -18,7 +18,7 @@
 
 Get it from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Sudhay.jetset-for-vscode) now
 
----
+<!-- --- -->
 <!-- 
 <a href="https://www.producthunt.com/posts/jetset-for-vscode?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-jetset-for-vscode" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=323494&theme=light" alt="JetSet for VSCode - A quick and easy file sharing tool built on privacy | Product Hunt" style="width: 200px; height: 50px;"/></a> -->
 
