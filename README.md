@@ -34,6 +34,8 @@ Get it from the [Visual Studio Code Marketplace](https://marketplace.visualstudi
 
 -   Ability to send files of any format (multiple files or folders can be compressed into **.zip** format and sent)
 
+-   Ability to send selective snippets of code across users.
+
 -   Receiver can choose to approve connection request from a sender after verifying sender's identity at discretion
 
 ---
@@ -60,6 +62,18 @@ Get it from the [Visual Studio Code Marketplace](https://marketplace.visualstudi
 
     </details>
 
+---
+
+## Quick Demonstration
+
+- Sending files over JetSet for VSCode
+
+![DemoGIF](./assets/gifs/demo_gif.gif)
+
+
+- Sending selective Snippets of Code
+
+![SnippetSendingGIF](./assets/gifs/snippetSendGif.gif)
 ---
 
 ## Bugs or Feature Request
